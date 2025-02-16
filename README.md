@@ -20,6 +20,8 @@
 <p>This dataset can be available at the website called Maven data playground, and it  includes five tables as they are customers, exchange rates, products, sales, and stores. </p>
 
 ![datasets description](https://github.com/user-attachments/assets/246ffbb2-0f87-4159-8595-1c9ca0ca4b69)
+![Data_Model](https://github.com/user-attachments/assets/94b37ff8-a406-45dd-a3c3-4dc2a48e8f10)
+
 
 
 <h3>Executive Summary</h3>
